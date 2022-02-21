@@ -6,3 +6,5 @@ Auto Advertise 2.0 uses the modules: time, webdriver, DiscordAccount, Keys, Chro
 Auto Advertise 2.0 is a python programe that advertises on the Offical minecraft discord.
 
 The account you use to advertise MUST be in the offical minecarft discord 
+
+# THE DISCORD API HAS CHANGED, THIS NO LONGER WORKS 
